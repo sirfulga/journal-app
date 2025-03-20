@@ -6,18 +6,6 @@
 
 This document serves as a centralized collection of technical documentation, guides, and resources for the technologies used in the Journal App. Use these references during development to ensure consistent implementation approaches and best practices.
 
-## Documentation Map
-
-This technical references document complements our core documentation suite:
-
-| Document | Purpose | When to Use |
-|----------|---------|-------------|
-| [purpose.md](./purpose.md) | The "Why" - Core purpose and values | For understanding project vision |
-| [product_specification.md](./product_specification.md) | The "What" - Feature specifications | For implementation details |
-| [context.md](./context.md) | The "How" - Technical approach | For architectural decisions |
-| [action_plan.md](./action_plan.md) | The "When" - Development roadmap | For project planning |
-| [technical_references.md](./technical_references.md) | The "With What" - Technical resources | For specific implementation guidance |
-
 ---
 
 ## React Native & Expo

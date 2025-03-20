@@ -9,49 +9,31 @@ The Journal App addresses the need for a straightforward, AI-enhanced journaling
 
 ## How?
 The app will achieve this through:
-- A clean, user-friendly mobile interface built with React Native and Expo
-- Integration of TensorFlow Lite for on-device AI processing, ensuring privacy and offline functionality
-- Natural language processing capabilities for grammar correction and formatting assistance
-- Intelligent content organization that helps users catalog and retrieve their thoughts, goals, and objectives
-- Voice-to-text functionality for audio journal entries
-- Support for multiple languages (as TensorFlow capabilities allow)
-- Respectful AI assistance that enhances clarity while preserving the user's original meaning and voice
+- On-device TensorFlow Lite models for text processing
+- Privacy-first implementation that keeps journal entries secure
+- Simple, intuitive interface focused on the writing experience
+- Multi-language support to serve a global audience
+- Voice-to-text capability for audio journaling
+- Thoughtful organization of journal entries
 
-## What?
-The Journal App will feature:
-- Simple, distraction-free journal entry interface
-- Multiple input methods:
-  - Traditional text entry
-  - Voice-to-text for audio journaling
-- AI-powered writing assistance that:
-  - Corrects grammar and punctuation
-  - Improves formatting and page layout
-  - Offers clarity enhancements that preserve original meaning
-  - Never alters the substance of user's thoughts or expressions
-- Organization tools for cataloging thoughts, goals, and objectives
-- Multi-language support for international users
-- Cross-platform availability (iOS, Android) with offline functionality
-- Privacy-focused design with on-device AI processing via TensorFlow Lite
-- Clean, intuitive user experience that emphasizes ease of use
+## Key Differentiators
+- **Privacy-focused**: Primary processing happens on-device
+- **Light touch AI**: Subtle assistance rather than intrusive suggestions
+- **Cross-platform**: Works seamlessly across devices
+- **Voice and text**: Multiple input methods for flexibility
+- **Organization**: Smart categorization of journal content
+- **Enhanced insights**: Identification of thoughts, goals, and critical elements
 
-This app stands apart by respecting the user's authentic voice while providing subtle AI assistance that makes journaling more accessible and enjoyable. The AI acts as a helpful editor rather than a co-author, ensuring the journal remains a true reflection of the user's thoughts.
+## Target Users
+- Regular journalers looking for enhanced organization
+- New journalers seeking assistance with structure and clarity
+- Users concerned about privacy with traditional cloud journaling apps
+- Multi-language users requiring support across different languages
+- People who prefer voice journaling but want text records
 
-## Project Documentation
-
-The Journal App project is supported by a comprehensive documentation structure designed to provide clarity at every level of development:
-
-| Document | Purpose | Contents |
-|----------|---------|----------|
-| **purpose.md** (this document) | Defines the "Why?" of the app | Core purpose, value proposition, high-level features |
-| **product_specification.md** | Details the "What?" of the app | Comprehensive feature requirements, user flows, technical specifications |
-| **context.md** | Explains the "How?" of the app | Technical implementation details, constraints, architectural decisions |
-| **action_plan.md** | Outlines the "When?" of the app | Version milestones, development roadmap, task breakdowns |
-
-### When to use each document:
-
-- Start with **purpose.md** to understand the fundamental vision and goals
-- Refer to **product_specification.md** for detailed feature requirements and user flows
-- Consult **context.md** for implementation guidance and technical considerations
-- Use **action_plan.md** to track development progress and prioritize tasks
-
-Together, these documents provide a complete picture of what we're building, why we're building it, how it should be implemented, and when each component will be delivered. 
+## Success Metrics
+- User retention and regular engagement
+- Quality of AI suggestions and improvements
+- User feedback on privacy features
+- Cross-platform consistency
+- Language support effectiveness 
